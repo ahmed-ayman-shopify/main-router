@@ -1,11 +1,11 @@
 {
   "rewrites": [
     {
-      "source": "/vsl-offer2-USA",
+      "source": "/VSL-OFFER2-USA",
       "destination": "https://vsl-offer2-usa.vercel.app"
     },
     {
-      "source": "/vsl-offer2-USA/:path*",
+      "source": "/VSL-OFFER2-USA/:path*",
       "destination": "https://vsl-offer2-usa.vercel.app/:path*"
     }
   ]
